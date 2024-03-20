@@ -1,0 +1,22 @@
+{
+  "name": "estsint",
+  "version": "1.0.0",
+  "description": "localized text for all Essential JS 2 Component in various languages",
+  "author": "FordBashirian",
+  "license": "SEE LICENSE IN license",
+  "keywords": [
+    "odio",
+    "syncfusion",
+    "ej2 base",
+    "quaerat",
+    "library",
+    "ej2-locale-text",
+    "locale",
+    "quis"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RolandoSporer/estsint.git"
+  },
+  "homepage": "https://github.com/RolandoSporer/estsint.git"
+}
